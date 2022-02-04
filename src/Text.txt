@@ -1,0 +1,20 @@
+All required Text for portfolio
+-------------------------------
+Skills
+
+Front End: HTML, CSS, JavaScript, TypeScript, React, React Native, Redux, Bootstrap, React Hooks,
+jQuery, Reactstrap, HTTP
+Back End: Node.js, PostgreSQL, NoSQL, Express, AWS DynamoDB, 
+AWS SDK, REST, Serverless, Java, Spring Boot
+Additional: Unit Testing, Data Structures, Github, GitLabs, AWS CodePipeline, AWS Cognito, Jest,
+Enzyme, React-Testing-Library, Mocha, Chai, Jest-Expo
+
+---------------------------------
+
+About
+
+I'm a full-stack web developer located in Maryland, USA. 
+I enjoy learning new technologies and am looking forward to expanding my horizons with design and development.
+I love creating clean and appealing websites with great user experience.
+If you're looking to hire a new developer or interested in exchanging ideas please don't hesitate to reach out.
+I would love to work with others in building amazing websites and applications.

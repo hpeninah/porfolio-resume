@@ -1,0 +1,26 @@
+//Colors
+$White: #FFFFFF;
+$Pink: #FFCAD4;
+$LightBlue: #B0D0D3;
+$Puce: #C08497;
+$Melon: #F7AF9D;
+$RichBlack: #11151C;
+$PrussianBlue: #212D40;
+$Charcoal: #364156;
+$TuscanRed: #7D4E57;
+
+.title {
+  font-family: 'Rowdies', cursive;
+}
+
+body {
+  margin: 0;
+  font-family: 'Source Serif 4', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
