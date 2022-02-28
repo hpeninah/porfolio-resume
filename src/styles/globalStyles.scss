@@ -11,6 +11,17 @@ $TuscanRed: #7D4E57;
 
 .title {
   font-family: 'Rowdies', cursive;
+  font-weight: 800;
+  font-size: 40px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: $Melon;
+}
+
+.logo {
+  align-items: flex-end;
 }
 
 body {
